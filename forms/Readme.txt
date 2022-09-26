@@ -1,2 +1,2 @@
 Fully working PHP/AJAX contact form script is available in the pro version of the template.
-You can buy it from: https://bootstrapmade.com/medicio-free-bootstrap-theme/
+You can buy it from: https://bootstrapmade.com/groovin-free-bootstrap-theme/
